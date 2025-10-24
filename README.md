@@ -43,6 +43,7 @@ An early gameplay prototype developed to test experimental mechanics and level t
 ### Payroll Automation System  
 A **WPF desktop app** that calculates salaries, taxes, and overtime pay.  
 *Focus: SQL integration, data validation, and clean UI logic.*
+https://github.com/BBaskan/PerformPlus1
 
 ### Employee Management System  
 CRUD-based admin tool built with **C# and SQL** for managing employee data and access levels.  
@@ -59,6 +60,7 @@ Small-scale apps and scripts for simplifying repetitive tasks and database workf
 ### Kurgusal Evren Club Website  
 An early **web design project** built for my university’s creative club.  
 Focused on layout design, content structure, and learning the basics of responsive web development.
+https://kurgusalevren.com.tr
 
 ---
 ## Tech Stack  
