@@ -1,7 +1,7 @@
 # Hi, I'm Onur Başkan  
 **Game Developer** | **Software Developer**  
 
-Recent graduate, passionate about creating engaging game experiences and clean, reliable software. Currently looking for entry-level roles in game development or software engineering — open to remote and on-site opportunities.
+Recent graduate, passionate about creating engaging game experiences and clean, reliable software. Currently looking for entry-level roles in game development or software engineering open to remote and on-site opportunities.
 ---
 
 ## About Me  
