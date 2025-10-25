@@ -1,6 +1,7 @@
 # Hi, I'm Onur Başkan  
 **Game Developer** | **Software Developer**  
 
+Recent graduate, passionate about creating engaging game experiences and clean, reliable software. Currently looking for entry-level roles in game development or software engineering — open to remote and on-site opportunities.
 ---
 
 ## About Me  
@@ -65,10 +66,11 @@ https://kurgusalevren.com.tr
 
 ---
 ## Tech Stack  
-**Game Development:** Unreal Engine 5 · Blueprints · Level Design · Gameplay Scripting  
-**Software Development:** C# · WPF · SQL · Java . HTML . CSS . JavaScript . Basic UX
-**Tools:** Visual Studio · Git · Photoshop · itch.io  
-
+Game Dev: Unreal Engine 5 · Blueprints · Level Design · Gameplay Scripting  
+Languages: C# · JavaScript · Java · SQL · HTML · CSS  
+Desktop: WPF  
+Dev Tools: Git · GitHub · Visual Studio · Basic Docker/CI knowledge  
+Other: Basic UX principles
 ---
 
 ## Connect With Me  
