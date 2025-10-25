@@ -67,7 +67,7 @@ https://kurgusalevren.com.tr
 ---
 ## Tech Stack  
 Game Dev: Unreal Engine 5 · Blueprints · Level Design · Gameplay Scripting  
-Languages: C# · JavaScript · Java · SQL · HTML · CSS  
+Languages: C# · C++ . python . JavaScript · Java · SQL · HTML · CSS  
 Desktop: WPF  
 Dev Tools: Git · GitHub · Visual Studio · Basic Docker/CI knowledge  
 Other: Basic UX principles
